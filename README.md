@@ -14,4 +14,4 @@ Here're my solutions to the puzzles:
 | 2017 | [Python](https://github.com/nitekat1124/advent-of-code-2017) | 50/50 |
 | 2016 | [Python](https://github.com/nitekat1124/advent-of-code-2016) | 50/50 |
 | 2015 | [Python](https://github.com/nitekat1124/advent-of-code-2015) | 50/50 |
-|Total | -         |350/350|
+| Total | -         | 350/350 |
