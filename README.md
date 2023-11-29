@@ -4,14 +4,25 @@
 
 Here're my solutions to the puzzles:
 
-| 🎄 Year 🎄 | 💻 Language 💻 | ⭐️ Stars ⭐️ |
-|:----:|:---------:|:-----:|
-| 2022 | [Python](https://github.com/nitekat1124/advent-of-code-2022) | in progress |
-| 2021 | [Python](https://github.com/nitekat1124/advent-of-code-2021) | 50/50 |
-| 2020 | [Python](https://github.com/nitekat1124/advent-of-code-2020) | 50/50 |
-| 2019 | [Python](https://github.com/nitekat1124/advent-of-code-2019) | 50/50 |
-| 2018 | [Python](https://github.com/nitekat1124/advent-of-code-2018) | 50/50 |
-| 2017 | [Python](https://github.com/nitekat1124/advent-of-code-2017) | 50/50 |
-| 2016 | [Python](https://github.com/nitekat1124/advent-of-code-2016) | 50/50 |
-| 2015 | [Python](https://github.com/nitekat1124/advent-of-code-2015) | 50/50 |
-| Total | -         | 350/350 |
+| 🎄 Year 🎄 |     💻 Language 💻     | ⭐️ Stars ⭐️  |
+|:---------:|:---------------------:|:-----------:|
+|   2023    | [Python][2023-python] | N/A         |
+|   2022    | [Python][2022-python] | 50/50       |
+|   2021    | [Python][2021-python] | 50/50       |
+|   2020    | [Python][2020-python] | 50/50       |
+|   2019    | [Python][2019-python] | 50/50       |
+|   2018    | [Python][2018-python] | 50/50       |
+|   2017    | [Python][2017-python] | 50/50       |
+|   2016    | [Python][2016-python] | 50/50       |
+|   2015    | [Python][2015-python] | 50/50       |
+|   Total   | -                     | 400/400     |
+
+[2023-python]: https://github.com/nitekat1124/advent-of-code-2023
+[2022-python]: https://github.com/nitekat1124/advent-of-code-2022
+[2021-python]: https://github.com/nitekat1124/advent-of-code-2021
+[2020-python]: https://github.com/nitekat1124/advent-of-code-2020
+[2019-python]: https://github.com/nitekat1124/advent-of-code-2019
+[2018-python]: https://github.com/nitekat1124/advent-of-code-2018
+[2017-python]: https://github.com/nitekat1124/advent-of-code-2017
+[2016-python]: https://github.com/nitekat1124/advent-of-code-2016
+[2015-python]: https://github.com/nitekat1124/advent-of-code-2015
