@@ -6,7 +6,7 @@ Here're my solutions to the puzzles:
 
 | 🎄 Year 🎄 |     💻 Language 💻     | ⭐️ Stars ⭐️  |
 |:---------:|:---------------------:|:-----------:|
-|   2023    | [Python][2023-python] | N/A         |
+|   2023    | [Python][2023-python] | 50/50       |
 |   2022    | [Python][2022-python] | 50/50       |
 |   2021    | [Python][2021-python] | 50/50       |
 |   2020    | [Python][2020-python] | 50/50       |
@@ -15,7 +15,7 @@ Here're my solutions to the puzzles:
 |   2017    | [Python][2017-python] | 50/50       |
 |   2016    | [Python][2016-python] | 50/50       |
 |   2015    | [Python][2015-python] | 50/50       |
-|   Total   | -                     | 400/400     |
+|   Total   | -                     | 450/450     |
 
 [2023-python]: https://github.com/nitekat1124/advent-of-code-2023
 [2022-python]: https://github.com/nitekat1124/advent-of-code-2022
